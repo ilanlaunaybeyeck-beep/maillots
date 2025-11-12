@@ -1,0 +1,30 @@
+
+body{
+    background-color: black;
+}
+h2{
+    color: brown;
+    width: 100%;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 35px;
+}
+p{
+    justify-content: center;
+    color: brown;
+    font-size: large;
+    text-align: center;
+}
+div{
+    color: brown;
+    font-size: 30px;
+    
+}
+a{
+    color:brown;
+    font-size: 25px;
+}
+
